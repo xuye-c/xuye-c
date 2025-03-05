@@ -4,7 +4,7 @@
 - 📍 Studying at **Duke Kunshan University** | **Class of 2027**  
 - 💡 Passionate about **Game Development, AI & Interactive Design**  
 - 🌱 Currently learning **Unity, Unreal Engine, and C#**  
-- 💬 Let's talk about **game design, coding, and cool projects!**
+- 💬 Let's start with **game design, coding, and cool projects!**
 
  🎮 **A Crazy Game Lover!**
 - 😎Genshin Impact, Honkai Star Rail, Clash Royal, Star Brawl, Sky...

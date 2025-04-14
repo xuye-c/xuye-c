@@ -16,7 +16,7 @@
 - 🎮 **[Chrome Dino Clone](https://github.com/xuye-c/Dinasour.git)** - A Python & Pygame remake of the classic Chrome Dino game.
 - 🎓 **[CHEATING](https://github.com/xuye-c/CHEATING.git)** - A fun classroom cheating simulation game built with Pygame.
 - 🐷 **[PiggyFarm](https://github.com/xuye-c/PiggyFarm.git)** - A 2D egg-catching game made with Java & Processing.
-- 📍 **[2DMapDemo](https://github.com/xuye-c/Mapdemo.git))** - An Android 2d Mapdemo made with Android Studio, supporting taking and uploading pictures.
+- 📍 **[2DMapDemo](https://github.com/xuye-c/Mapdemo.git)** - An Android 2d Mapdemo made with Android Studio, supporting taking and uploading pictures.
 
 ---
 
